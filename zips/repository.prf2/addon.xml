@@ -5,9 +5,9 @@
         provider-name="PistachePoilue, rayflix">
     <extension point="xbmc.addon.repository" name="PRF2 Repository">
     <dir>
-        <info compressed="false">https://raw.githubusercontent.com/poiluepistache/repo/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/Kodi-vStream/poiluepistache/repo/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/poiluepistache/repo/master/zips/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/poiluepistache/poiluepistache.github.io/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Kodi-vStream/poiluepistache/poiluepistache.github.io/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/poiluepistache/poiluepistache.github.io/master/zips/</datadir>
     </dir>
    </extension>
 
